@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,AAAC,CACP,OAAO,CAAE,GAAG,CACZ,aAAa,CAAE,GAAG,CAClB,MAAM,CAAE,cAAc,CACtB,gBAAgB,CAAE,IAAI,CAUvB,AARE,AAAD,cAAO,AAAC,CACN,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CACjB,AAEA,AAAD,kBAAW,AAAC,CACV,OAAO,CAAE,GAAG,CACb",
+    "sources": [
+        "../profile/profile.scss"
+    ],
+    "names": [],
+    "file": "profile.min.css"
+}
