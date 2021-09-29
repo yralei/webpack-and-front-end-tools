@@ -1,4 +1,4 @@
-import { getItem, listElem } from './storage.js';
+import { getItem, listElem } from './storage';
 
 export const renderTasks = () => {
   const tasksList = getItem('tasksList') || [];
